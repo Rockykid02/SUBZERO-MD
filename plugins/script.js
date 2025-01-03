@@ -11,50 +11,37 @@
     ⭐ ＯＵＲ ＷＥＢＳＩＴＥ
      https://github.com/ZwSyntax/SUBZERO-MD
 
-© ＴＲＹ ＤＥＣＲＹＰＴＩＮＧ ＩＦ ＹＯＵ ＣＡＮ⚠
-
+© I smell A Noobie Copy Cat🤣⚠
+Bro there is still time to deploy dont clone i repeat dont clone🫡
 ╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺*/
+/*
+const config = require('../config');
+const { cmd, commands } = require('../command');
+const os = require("os");
+const { runtime } = require('../lib/functions');
+const axios = require('axios');
 
-
-
-
-
-
-const config = require('../config')
-const {cmd , commands} = require('../command')
 cmd({
-    pattern: "script",
-    alias: ["sc","repo","info"],
-    desc: "bot repo",
-    react: "🤖",
-    category: "main",
+    pattern: "repo",
+    alias:["sc","script","info"],
+    desc: "subzero repo",
+    category: "tools",
+    react: "🗂️",
     filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-let repo =`
-*⟣━━━━━━━━━━━━━━━━━━━⟢*
-   👨‍💻   *BOT OWNER:*
- 
-> *Darrell Mucheri ( Mr Frank OFC )*
+}, 
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        let dec = "*⟣━━━━━━━━━━━━━━━━━━━⟢*\n\n" + 
+"   🔗   `SUBZERO REPO`\n\n" + 
+"> *https://github.com/mrfrank-ofc/SUBZERO-MD*\n\n\n" + 
+"   🎀  `SUPPORT GROUP`\n\n" + 
+"> *https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D*\n\n" + 
+"  🔎  `DEVELOPER NUMBER`\n\n" + 
+"> *wa.me/+263718647303/*\n\n" + 
+"*
 
-   🔗   *SUBZERO REPO:*
- 
-> *https://github.com/mrfrank-ofc/SUBZERO-MD*
 
-   🎀  *SUPPORT GROUP:*
- 
-> *https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D*
-
-  🔎  *DEVELOPER NUMBER:*
- 
-> *wa.me/+263718647303/*
-
-*⟣━━━━━━━━━━━━━━━━━━━⟢*
-> *CREATED BY MR FRANK*
-*⟣━━━━━━━━━━━━━━━━━━━⟢*
-`
-await conn.sendMessage(
+        await conn.sendMessage(
             from,
             {
                 image: { url: `https://i.postimg.cc/yNf7rQFw/prn.jpg` },
@@ -65,7 +52,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363304325601080@newsletter',
-                        newsletterName: '❄️ 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 ❄️',
+                        newsletterName: '❄️ 『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』❄️',
                         serverMessageId: 143
                     }
                 }
@@ -75,7 +62,7 @@ await conn.sendMessage(
 
         // Send audio //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3
         await conn.sendMessage(from, { //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/blob/main/audios/subzero-menu.mp3
-            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3' },//https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/sigma.m4a
+            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-yali.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -87,6 +74,6 @@ await conn.sendMessage(
 });
 
 
-
+*/
 
 //  SUBZERO SC BY MR FRANK
