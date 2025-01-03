@@ -50,12 +50,12 @@ let madeMenu = `*▢─────────────────▢*
 *▢─────────────────▢*
 
 ━━━━━━━━━━━━━━━━━━━━
-> SUBZERO COMMAND LIST 2
+> SAGE DICKSON COMMAND LIST 2
 ━━━━━━━━━━━━━━━━━━━━
  *https://github.com/ZwSyntax/SUBZERO-MD*
 ━━━━━━━━━━━━━━━━━━━━
 
-*MADE BY MR FRANK OFC*
+*MADE BY Sage Dickson*
 
 *▢───────────────▢*
   ◈  *ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴍᴀɴᴅs*
@@ -105,7 +105,7 @@ let madeMenu = `*▢─────────────────▢*
 
 *▢▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▢*⁠⁠⁠⁠
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*
+> *Powered by Digital Dynamo Lab*
 
 *▢▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▢
 `
