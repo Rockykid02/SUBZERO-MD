@@ -33,8 +33,8 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `━━━━━━━━━━━━━━━━━━━━━━━━
 
-*👋 HELLO ${pushname}*\n\n *I AM SUBZERO MD*\n
-I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
+*👋 HELLO ${pushname}*\n\n *I AM SAGE DICKSON MD*\n
+I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe and connected here by Mr Dickson.\nMy sole purpose is to remove the burden or cost of purchusing data bundle to download Songs, Apps, Videos & Movies by  using whatsapp  bundles.
 \n\n *For More Visit*: https://mrfrankinc.vercel.app/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -64,7 +64,7 @@ I am  WhatsApp Based Multi Device Bot Created By Darrell Mucheri T from Zimbabwe
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
  *[*RELEASE DATE* - *15 December 2024*]*
  
-> *MR FRANK OFC*
+> *powered under Digital Dynamo Lab*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 `
