@@ -33,7 +33,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         const steps = [
-            '💻 *SUBZERO HACK STARTING...* 💻',
+            '💻 *Sage Dickson 😈 Evil Bash  HACK STARTING...* 💻',
             '',
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
@@ -55,11 +55,11 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '*📡 Transmitting data...* 📤',
             '*🕵️‍♂️ Ensuring stealth...* 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            '*🔧 SUBZEROGet Your All Data...* 🎁',
+            '*🔧 Getting WhatsApp All Data...* 🎁',
             '',
-            '⚠️ *Note:* All actions are for demonstration purposes only.',
-            '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
-            '⚠️ *Reminder:* Strong hacking is the only way to ensure security.',
+            '⚠️ *Note:*You are now getting victims info .',
+            '⚠️ *Reminder:* Victim Hacked successfully evil bash stored the info Chats and e.t.c .',
+            '⚠️ *Reminder:* Now go view victims info a gathered by Sage Dickson evil bash hacky.',
             '',
             ' *👨‍💻 YOUR DATA HACK SUCCESSFULLY 👩‍💻☣*'
         ];
